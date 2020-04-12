@@ -41,7 +41,7 @@ public class AddLoggingList<E>
     }
 
     private String message(int index, E object) {
-        return String.format("Adding %s to index %s\n", index, object);
+        return String.format("Adding %s to index %s\n", object,index );
     }
 
     public String getLog() {
