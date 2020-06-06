@@ -1,4 +1,4 @@
-package Java.src.main.java.concurrency;
+package Java.concurrency;
 
 import javax.annotation.concurrent.GuardedBy;
 import javax.annotation.concurrent.ThreadSafe;
