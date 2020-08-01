@@ -25,5 +25,6 @@
     <orderEntry type="library" scope="TEST" name="Maven: org.junit.jupiter:junit-jupiter-engine:5.4.2" level="project" />
     <orderEntry type="library" scope="TEST" name="Maven: org.junit.platform:junit-platform-engine:1.4.2" level="project" />
     <orderEntry type="library" scope="TEST" name="Maven: org.assertj:assertj-core:2.1.0" level="project" />
+    <orderEntry type="library" name="Maven: org.jooq:jool:0.9.14" level="project" />
   </component>
 </module>

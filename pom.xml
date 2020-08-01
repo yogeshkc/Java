@@ -48,6 +48,11 @@
             <version>2.1.0</version>
             <scope>test</scope>
         </dependency>
+        <dependency>
+        <groupId>org.jooq</groupId>
+        <artifactId>jool</artifactId>
+        <version>0.9.14</version>
+        </dependency>
     </dependencies>
 
 
